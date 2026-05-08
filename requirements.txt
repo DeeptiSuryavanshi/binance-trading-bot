@@ -1,0 +1,7 @@
+python-binance==1.0.19
+python-dotenv==1.0.1
+questionary==2.0.1
+rich==13.7.1
+requests>=2.31.0
+pytest==8.2.1
+pytest-cov==4.1.0
